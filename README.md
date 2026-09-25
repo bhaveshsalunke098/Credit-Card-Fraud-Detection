@@ -293,5 +293,3 @@ Through this project, the following concepts were applied:
 
 Machine Learning Project | Python | Machine Learning | Data Science
 
-**GitHub:**  
-https://github.com/bhaveshsalunke098
